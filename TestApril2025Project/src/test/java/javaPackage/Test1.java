@@ -13,7 +13,7 @@ public class Test1 {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://dashboard.gotowebinar.com/contentLibrary");
-		System.out.println("Hello Child Branch");
+		System.out.println("Hello Child Branchsss");
 	}
 
 }
